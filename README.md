@@ -7,7 +7,7 @@
 Require this package with composer using the following command:
 
 ```shell
-$ composer require sormagec/roadrunner-laravel "^1.4"
+$ composer require sormagec/roadrunner-laravel "^1.1"
 ```
 
 > Installed `composer` is required ([how to install composer][getcomposer]).
