@@ -8,10 +8,12 @@
     ],
     "type": "library",
     "license": "MIT",
-    "authors": [{
-        "name": "bsormagec",
-        "homepage": "https://github.com/bsormagec"
-    }],
+    "authors": [
+        {
+            "name": "bsormagec",
+            "homepage": "https://github.com/bsormagec"
+        }
+    ],
     "require": {
         "php": ">=7.0",
         "ext-mbstring": "*",
